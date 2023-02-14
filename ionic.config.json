@@ -1,0 +1,7 @@
+{
+  "name": "almproyecto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
